@@ -35,6 +35,7 @@ body {
     500px 500px,
     600px 600px;
   background-repeat: repeat;
+  /* background-attachment: fixed; Removed for performance, container is already fixed */
 }
 
 /* Separate animation layer for the stars only */
@@ -43,23 +44,9 @@ body {
   position: absolute;
   inset: 0;
   background: inherit;
-  animation: shine 8s ease-in-out infinite;
-}
-
-@keyframes shine {
-
-  0%,
-  85% {
-    opacity: 0.15;
-  }
-
-  92% {
-    opacity: 0.05;
-  }
-
-  100% {
-    opacity: 0.15;
-  }
+  will-change: opacity;
+  transform: translateZ(0);
+  /* Hardware acceleration hack */
 }
 
 h1,
