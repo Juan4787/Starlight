@@ -27,7 +27,7 @@
   <div class="container mx-auto px-4 h-16 flex items-center justify-between">
     <!-- Logo -->
     <a href="/" class="text-xl font-serif font-bold text-texto-principal tracking-wide">
-      La Luz Estelar
+      Starlight
     </a>
 
     <!-- Desktop Menu -->
