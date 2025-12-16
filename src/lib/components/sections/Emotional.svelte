@@ -9,7 +9,7 @@
   <div class="relative z-10 max-w-4xl mx-auto">
     <div class="text-center mb-16">
       <h2 class="text-3xl md:text-4xl font-serif font-bold mb-8 text-texto-principal">
-        Lo vas a cerrar… y algo adentro se acomoda.
+        You will close it... and something inside settles.
       </h2>
       
       <ul class="grid md:grid-cols-2 gap-x-12 gap-y-6 text-left mx-auto max-w-2xl">
@@ -19,7 +19,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
             </svg>
           </div>
-          <span class="text-texto-suave text-lg">Una sensación de calma real, sin esfuerzo.</span>
+          <span class="text-texto-suave text-lg">A feeling of real calm, effortless.</span>
         </li>
         <li class="flex items-start gap-4">
           <div class="w-6 h-6 rounded-full bg-dorado/10 flex items-center justify-center shrink-0 mt-1">
@@ -27,7 +27,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
             </svg>
           </div>
-          <span class="text-texto-suave text-lg">Un lenguaje simple para hablar de lo invisible con los chicos.</span>
+          <span class="text-texto-suave text-lg">A simple language to talk about the invisible with children.</span>
         </li>
         <li class="flex items-start gap-4">
           <div class="w-6 h-6 rounded-full bg-dorado/10 flex items-center justify-center shrink-0 mt-1">
@@ -35,7 +35,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
             </svg>
           </div>
-          <span class="text-texto-suave text-lg">Una mirada nueva: menos miedo, más amor.</span>
+          <span class="text-texto-suave text-lg">A new perspective: less fear, more love.</span>
         </li>
         <li class="flex items-start gap-4">
           <div class="w-6 h-6 rounded-full bg-dorado/10 flex items-center justify-center shrink-0 mt-1">
@@ -43,7 +43,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
             </svg>
           </div>
-          <span class="text-texto-suave text-lg">Un recordatorio íntimo: <strong class="text-texto-principal font-medium">no estás solo</strong>.</span>
+          <span class="text-texto-suave text-lg">An intimate reminder: <strong class="text-texto-principal font-medium">you are not alone</strong>.</span>
         </li>
       </ul>
     </div>
@@ -52,10 +52,10 @@
       <div class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-8 text-6xl text-dorado/20 font-serif">"</div>
       <blockquote class="relative z-10">
         <p class="text-2xl md:text-3xl font-serif italic text-texto-principal mb-4 leading-relaxed">
-          “Nada real puede ser amenazado. Nada irreal existe.”
+          “Nothing real can be threatened. Nothing unreal exists.”
         </p>
         <footer class="text-dorado font-medium tracking-wide">
-          En eso radica la paz.
+          Herein lies the peace.
         </footer>
       </blockquote>
     </div>

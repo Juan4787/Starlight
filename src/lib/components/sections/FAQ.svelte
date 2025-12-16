@@ -10,33 +10,33 @@
 
   let faqs: FAQ[] = [
     {
-      question: "¿Es religioso?",
-      answer: "No. Habla de Dios como amor y guía interna, sin instituciones ni dogmas.",
+      question: "Is it religious?",
+      answer: "No. It speaks of God as love and inner guidance, without institutions or dogmas.",
       isOpen: false
     },
     {
-      question: "¿Para qué edades es?",
-      answer: "Funciona para niños (por su simpleza y simbolismo) y para adultos (por el mensaje). Ideal para leer acompañado.",
+      question: "What ages is it for?",
+      answer: "It works for children (for its simplicity and symbolism) and for adults (for the message). Ideal to read together.",
       isOpen: false
     },
     {
-      question: "¿Cómo lo recibo?",
-      answer: "En formato digital (PDF), con acceso inmediato tras la compra.",
+      question: "How do I receive it?",
+      answer: "In digital format (PDF), with immediate access after purchase.",
       isOpen: false
     },
     {
-      question: "¿Puedo imprimirlo?",
-      answer: "Sí, podés imprimirlo para uso personal.",
+      question: "Can I print it?",
+      answer: "Yes, you can print it for personal use.",
       isOpen: false
     },
     {
-      question: "¿Vale la pena pagar un cuento digital?",
-      answer: "No es solo un cuento para leer una vez. Es una lectura que podés volver a abrir, compartir y usar como ritual. Si buscás cantidad, no es esto. Si buscás sentido, sí.",
+      question: "Is it worth paying for a digital story?",
+      answer: "It is not just a story to read once. It is a reading you can reopen, share, and use as a ritual. If you seek quantity, this is not it. If you seek meaning, yes.",
       isOpen: false
     },
     {
-      question: "¿Cuánto dura la lectura?",
-      answer: "Es corto: perfecto para un ritual de noche.",
+      question: "How long is the reading?",
+      answer: "It is short: perfect for a night ritual.",
       isOpen: false
     }
   ];
@@ -53,7 +53,7 @@
   <div class="max-w-3xl mx-auto">
     <div class="text-center mb-12">
       <h2 class="text-3xl md:text-4xl font-serif font-bold mb-4 text-texto-principal">
-        Preguntas frecuentes
+        Frequently Asked Questions
       </h2>
     </div>
 

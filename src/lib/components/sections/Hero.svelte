@@ -14,13 +14,13 @@
     <!-- Text Content -->
     <div class="text-center md:text-left order-2 md:order-1">
       <h1 class="text-4xl md:text-6xl font-serif font-bold leading-tight mb-6 text-texto-principal">
-        La luz que buscás afuera… <span class="text-dorado block mt-2">ya vive dentro de vos.</span>
+        The light you seek outside… <span class="text-dorado block mt-2">already lives within you.</span>
       </h1>
       
       <p class="text-lg md:text-xl text-texto-suave mb-8 font-light leading-relaxed">
-        <span class="italic font-serif text-dorado/80">Un cuento ilustrado para niños y adultos que no solo se lee: se siente.</span>
+        <span class="italic font-serif text-dorado/80">An illustrated story for children and adults that is not just read: it is felt.</span>
         <br>
-        Una historia suave y simbólica para volver a la calma, la confianza y la presencia.
+        A soft and symbolic story to return to calm, confidence, and presence.
       </p>
 
       <ul class="space-y-3 mb-10 text-left max-w-md mx-auto md:mx-0">
@@ -28,28 +28,28 @@
           <svg class="w-5 h-5 text-dorado mt-1 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
           </svg>
-          Lectura corta, profunda y amorosa (ideal para la noche).
+          Short, deep, and loving reading (ideal for bedtime).
         </li>
         <li class="flex items-start gap-3 text-texto-suave/90">
           <svg class="w-5 h-5 text-dorado mt-1 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
           </svg>
-          Un puente simple para hablar de amor, miedo y “volver a casa”.
+          A simple bridge to talk about love, fear, and "coming home".
         </li>
         <li class="flex items-start gap-3 text-texto-suave/90">
           <svg class="w-5 h-5 text-dorado mt-1 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
           </svg>
-          Espiritual, íntimo y sin dogmas: directo al corazón.
+          Spiritual, intimate, and without dogma: straight to the heart.
         </li>
       </ul>
 
       <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start items-center">
         <div class="flex flex-col items-center">
           <Button href="https://pay.hotmart.com/E103406634Y?off=5iwa98p0" target="_blank" rel="noopener noreferrer" variant="primary" className="w-full sm:w-auto shadow-glow">
-            Comprar ahora y leer hoy
+            Buy now and read today
           </Button>
-          <span class="text-xs text-texto-suave/60 mt-2">Desde $15.000 · Acceso inmediato</span>
+          <span class="text-xs text-texto-suave/60 mt-2">From $15.000 · Immediate access</span>
         </div>
 
       </div>
@@ -59,19 +59,19 @@
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
           </svg>
-          Acceso inmediato
+          Immediate access
         </span>
         <span class="flex items-center gap-2">
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
           </svg>
-          PDF ilustrado
+          Illustrated PDF
         </span>
         <span class="flex items-center gap-2">
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
           </svg>
-          Lectura para compartir
+          Reading to share
         </span>
       </div>
     </div>
@@ -84,7 +84,7 @@
           <div class="relative z-10 rounded-2xl overflow-hidden shadow-2xl transform rotate-y-12 hover:rotate-y-0 transition-transform duration-700">
             <img 
               src="/hero-image.jpg" 
-              alt="La Luz Estelar - Portada" 
+              alt="Starlight - Cover" 
               class="w-full h-auto object-cover"
             />
             

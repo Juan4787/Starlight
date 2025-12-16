@@ -13,10 +13,10 @@
 
     <div class="text-center md:text-left">
       <h2 class="text-3xl font-serif font-bold mb-4 text-texto-principal">
-        Sobre Sabrina
+        About Sabrina
       </h2>
       <p class="text-lg text-texto-suave leading-relaxed">
-        Sabrina Meola escribió este cuento como una forma de compartir un despertar y resignificar a Dios como experiencia íntima: guía, amor y presencia.
+        Sabrina Meola wrote this story as a way to share an awakening and redefine God as an intimate experience: guidance, love, and presence.
       </p>
     </div>
   </div>

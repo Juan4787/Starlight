@@ -6,7 +6,7 @@
   <div class="grid md:grid-cols-2 gap-12 items-center">
     <div class="order-2 md:order-1">
       <h2 class="text-3xl md:text-4xl font-serif font-bold mb-8 text-texto-principal">
-        Qué recibís al comprar
+        What you receive when buying
       </h2>
 
       <ul class="space-y-6 mb-8">
@@ -17,8 +17,8 @@
             </svg>
           </div>
           <div>
-            <strong class="block text-texto-principal text-lg mb-1">PDF ilustrado (16 páginas)</strong>
-            <span class="text-texto-suave">Listo para leer. Diseño cuidado y tipografía legible.</span>
+            <strong class="block text-texto-principal text-lg mb-1">Illustrated PDF (16 pages)</strong>
+            <span class="text-texto-suave">Ready to read. Careful design and legible typography.</span>
           </div>
         </li>
         <li class="flex items-start gap-4">
@@ -28,8 +28,8 @@
             </svg>
           </div>
           <div>
-            <strong class="block text-texto-principal text-lg mb-1">Acceso inmediato</strong>
-            <span class="text-texto-suave">Descarga automática tras la compra. Sin esperas.</span>
+            <strong class="block text-texto-principal text-lg mb-1">Immediate access</strong>
+            <span class="text-texto-suave">Automatic download after purchase. No waiting.</span>
           </div>
         </li>
         <li class="flex items-start gap-4">
@@ -39,16 +39,16 @@
             </svg>
           </div>
           <div>
-            <strong class="block text-texto-principal text-lg mb-1">Multiformato</strong>
-            <span class="text-texto-suave">Ideal para lectura en pantalla (celular/tablet) o para imprimir en casa.</span>
+            <strong class="block text-texto-principal text-lg mb-1">Multi-format</strong>
+            <span class="text-texto-suave">Ideal for screen reading (phone/tablet) or printing at home.</span>
           </div>
         </li>
       </ul>
 
       <div class="bg-white/[0.04] border border-white/10 rounded-xl p-6 backdrop-blur-sm">
         <p class="text-texto-suave italic text-sm leading-relaxed">
-          <span class="text-dorado font-bold not-italic block mb-2">Nota de la autora:</span>
-          Es un cuento inspirado en una mirada espiritual amorosa y profunda. No busca convencer, sino recordar.
+          <span class="text-dorado font-bold not-italic block mb-2">Author's note:</span>
+          It is a story inspired by a loving and deep spiritual perspective. It seeks not to convince, but to remember.
         </p>
       </div>
     </div>
@@ -58,7 +58,7 @@
         <div class="relative z-10 rounded-2xl overflow-hidden shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500">
           <img 
             src="/hero-image.jpg" 
-            alt="Interior del libro" 
+            alt="Book interior" 
             class="w-full h-auto shadow-glow"
           />
         </div>

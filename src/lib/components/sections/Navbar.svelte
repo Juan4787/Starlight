@@ -33,16 +33,16 @@
     <!-- Desktop Menu -->
     <div class="hidden md:flex items-center gap-8">
       <button on:click={() => scrollToSection('muestra')} class="text-sm text-texto-suave hover:text-dorado transition-colors">
-        Muestra
+        Sample
       </button>
       <button on:click={() => scrollToSection('que-incluye')} class="text-sm text-texto-suave hover:text-dorado transition-colors">
-        Qué incluye
+        What's included
       </button>
       <button on:click={() => scrollToSection('faq')} class="text-sm text-texto-suave hover:text-dorado transition-colors">
-        Preguntas
+        FAQ
       </button>
       <Button href="https://pay.hotmart.com/E103406634Y?off=5iwa98p0" target="_blank" rel="noopener noreferrer" variant="primary" className="!py-2 !px-6 !text-sm">
-        Quiero leerlo
+        I want to read it
       </Button>
     </div>
 
@@ -58,16 +58,16 @@
   {#if isMobileMenuOpen}
     <div class="md:hidden absolute top-16 left-0 right-0 bg-noche/95 backdrop-blur-xl border-b border-white/10 p-4 flex flex-col gap-4">
       <button on:click={() => scrollToSection('muestra')} class="text-left text-texto-suave hover:text-dorado py-2">
-        Muestra
+        Sample
       </button>
       <button on:click={() => scrollToSection('que-incluye')} class="text-left text-texto-suave hover:text-dorado py-2">
-        Qué incluye
+        What's included
       </button>
       <button on:click={() => scrollToSection('faq')} class="text-left text-texto-suave hover:text-dorado py-2">
-        Preguntas
+        FAQ
       </button>
       <Button href="https://pay.hotmart.com/E103406634Y?off=5iwa98p0" target="_blank" rel="noopener noreferrer" variant="primary" className="w-full justify-center">
-        Quiero leerlo
+        I want to read it
       </Button>
     </div>
   {/if}
