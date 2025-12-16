@@ -8,7 +8,6 @@
   import Includes from './lib/components/sections/Includes.svelte';
   import Usage from './lib/components/sections/Usage.svelte';
   import Pricing from './lib/components/sections/Pricing.svelte';
-  import Guarantee from './lib/components/sections/Guarantee.svelte';
   import Author from './lib/components/sections/Author.svelte';
   import FAQ from './lib/components/sections/FAQ.svelte';
   import Footer from './lib/components/sections/Footer.svelte';
@@ -44,7 +43,6 @@
   <Includes />
   <Usage />
   <Pricing />
-  <Guarantee />
   <Author />
   <FAQ />
   <Footer />
