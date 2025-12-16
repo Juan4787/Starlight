@@ -49,7 +49,7 @@
           <Button href="https://pay.hotmart.com/E103406634Y?off=5iwa98p0" target="_blank" rel="noopener noreferrer" variant="primary" className="w-full sm:w-auto shadow-glow">
             Buy now and read today
           </Button>
-          <span class="text-xs text-texto-suave/60 mt-2">From $15.000 · Immediate access</span>
+          <span class="text-xs text-texto-suave/60 mt-2">From 15 USD · Immediate access</span>
         </div>
 
       </div>
